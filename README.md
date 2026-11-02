@@ -44,26 +44,23 @@ With professional experience in web development, I enjoy turning complex require
 
 ## Featured Projects
 
-### Website Quality Auditor
-An open-source project focused on identifying website quality issues and presenting actionable recommendations through a developer-friendly interface.
+### Leads Master — Call Playbooks
+A single-user sales workspace for planning and running outbound website-development sales. Manage prospects, build branching cold-call playbooks, log calls, schedule follow-ups, prepare quotations, and review sales activity in one application.
 
-**Focus:** Web quality, accessibility, SEO, performance, and testing.
+**Engineering highlights:** Shared validation running in both the builder and the server, immutable published snapshots so live calls never change under the caller, append-only session logs as the single source of truth, integer minor units for money, and a carefully scoped offline write queue for installable PWA use.
 
-[Explore the repository](https://github.com/devalfian/website-quality-auditor)
+**Built with:** Next.js 15, TypeScript, Cloudflare Workers, and D1.
 
-### Freelance Client Workspace
-A web application concept for organizing prospects, outreach activities, follow-ups, and client pipelines in one workspace.
+[Explore the repository](https://github.com/devalfian/leads-master)
 
-**Focus:** Full-stack development, data modeling, workflow design, and usability.
+### PageScope — Website Auditor
+Audits the technical and SEO correctness of a single page in seconds — without a browser — and turns each check into a finding with the evidence it was based on, plus a concrete suggestion for fixing it. It ships as a CLI, an opt-in quality gate for CI, and a library you can import.
 
-[Explore the repository](https://github.com/devalfian/freelance-client-workspace)
+**Engineering highlights:** Baseline mode so a gate only fails on newly introduced findings, findings identified by rule plus semantic discriminator rather than line numbers, private and reserved addresses refused at connect time, and 145 tests that require no network access.
 
-### Accessible UI Components
-A collection of reusable interface components designed with accessibility, clear APIs, and maintainability in mind.
+**Built with:** TypeScript, pnpm workspace monorepo, and Vitest.
 
-**Focus:** React, TypeScript, keyboard interaction, and component testing.
-
-[Explore the repository](https://github.com/devalfian/accessible-ui-components)
+[Explore the repository](https://github.com/devalfian/website-auditor)
 
 ## What I Value
 
