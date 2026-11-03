@@ -62,6 +62,15 @@ Audits the technical and SEO correctness of a single page in seconds — without
 
 [Explore the repository](https://github.com/devalfian/website-auditor)
 
+### Animated Component Engineer — Motion Skill for AI Agents
+A reusable, agent-agnostic skill that turns a natural-language interaction brief into a concrete motion specification, then designs, implements, and validates polished animated React components. It selects the right technique per job — CSS, Framer Motion, GSAP, Canvas, SVG, or WebGL — and explains when the project's existing library should win instead.
+
+**Engineering highlights:** Components built against a shared motion vocabulary (Reveal, ScrollProgress, Hover, Swap) instead of one-off animations, explicit handling of reduced motion, accessibility, and per-frame cost, and a zero-dependency Node auditor reporting FAIL, WARN, and SKIP with a non-zero exit — so "verified" means a command ran, not a checklist was remembered.
+
+**Built with:** React, Node.js, Framer Motion, and Markdown-based skill packaging.
+
+[Explore the repository](https://github.com/devalfian/animated-component-engineer)
+
 ## What I Value
 
 - Code that is understandable and maintainable.
