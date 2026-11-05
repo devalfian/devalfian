@@ -1,93 +1,144 @@
 # Hi, I'm Alfian Purwanto 👋
 
-### Frontend Engineer | React · Next.js · TypeScript
+### Frontend Engineer · React · Next.js · TypeScript
 
-I build web applications with a focus on maintainable architecture, responsive interfaces, accessibility, and reliable user experiences.
+I design and build modern web applications with a focus on **clean architecture, thoughtful user experiences, and reliable engineering**.
 
-With professional experience in web development, I enjoy turning complex requirements into practical solutions and building tools that solve real problems for developers and users.
+I enjoy turning complex ideas into practical software — from interactive interfaces and developer tools to full-stack applications.
 
-- 🔭 **Currently building:** Open-source developer tools and web applications.
-- 💻 **Core focus:** Frontend engineering, React, Next.js, and TypeScript.
-- 🧪 **Engineering interests:** Testing, accessibility, web performance, and maintainable code.
-- 🌐 **Portfolio:** [digitalleads.my.id](https://digitalleads.my.id)
-- 💼 **Professional network:** [Connect with me on LinkedIn](https://www.linkedin.com/in/afianpur/)
-- 📫 **Contact:** alfianpur@outlook.co.id
-
-## Technical Focus
-
-**Frontend Development**
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5 and CSS3
-- Responsive UI development
-
-**Backend & Data**
-- API integration
-- Server-side application development
-- Database design and integration
-
-**Engineering Practices**
-- Component-based architecture
-- Reusable and maintainable code
-- Automated testing
-- Accessibility-focused development
-- Git-based collaboration
-- Continuous integration and deployment
-
-**Tools & Platforms**
-- Git and GitHub
-- VS Code
-- Cloudflare
-- WordPress and Elementor
-
-## Featured Projects
-
-### Leads Master — Call Playbooks
-A single-user sales workspace for planning and running outbound website-development sales. Manage prospects, build branching cold-call playbooks, log calls, schedule follow-ups, prepare quotations, and review sales activity in one application.
-
-**Engineering highlights:** Shared validation running in both the builder and the server, immutable published snapshots so live calls never change under the caller, append-only session logs as the single source of truth, integer minor units for money, and a carefully scoped offline write queue for installable PWA use.
-
-**Built with:** Next.js 15, TypeScript, Cloudflare Workers, and D1.
-
-[Explore the repository](https://github.com/devalfian/leads-master)
-
-### PageScope — Website Auditor
-Audits the technical and SEO correctness of a single page in seconds — without a browser — and turns each check into a finding with the evidence it was based on, plus a concrete suggestion for fixing it. It ships as a CLI, an opt-in quality gate for CI, and a library you can import.
-
-**Engineering highlights:** Baseline mode so a gate only fails on newly introduced findings, findings identified by rule plus semantic discriminator rather than line numbers, private and reserved addresses refused at connect time, and 145 tests that require no network access.
-
-**Built with:** TypeScript, pnpm workspace monorepo, and Vitest.
-
-[Explore the repository](https://github.com/devalfian/website-auditor)
-
-### Animated Component Engineer — Motion Skill for AI Agents
-A reusable, agent-agnostic skill that turns a natural-language interaction brief into a concrete motion specification, then designs, implements, and validates polished animated React components. It selects the right technique per job — CSS, Framer Motion, GSAP, Canvas, SVG, or WebGL — and explains when the project's existing library should win instead.
-
-**Engineering highlights:** Components built against a shared motion vocabulary (Reveal, ScrollProgress, Hover, Swap) instead of one-off animations, explicit handling of reduced motion, accessibility, and per-frame cost, and a zero-dependency Node auditor reporting FAIL, WARN, and SKIP with a non-zero exit — so "verified" means a command ran, not a checklist was remembered.
-
-**Built with:** React, Node.js, Framer Motion, and Markdown-based skill packaging.
-
-[Explore the repository](https://github.com/devalfian/animated-component-engineer)
-
-## What I Value
-
-- Code that is understandable and maintainable.
-- Interfaces that work across screen sizes and input methods.
-- Practical engineering decisions backed by clear trade-offs.
-- Testing that helps prevent regressions.
-- Documentation that makes software easier to use and contribute to.
-- Building useful software that developers can learn from and improve.
-
-## Let's Connect
-
-I'm interested in opportunities where I can contribute to meaningful products, collaborate with engineering teams, and continue growing as a frontend engineer.
-
-- **Portfolio:** https://digitalleads.my.id
-- **LinkedIn:** https://www.linkedin.com/in/afianpur/
-- **Email:** alfianpur@outlook.co.id
+- 🔭 **Currently building:** [Digital Leads Co.](https://digitalleads.my.id/)
+- 💻 **Focus:** Frontend engineering, full-stack development, and developer experience.
+- 🧪 **Interested in:** Web performance, accessibility, testing, and software architecture.
+- 🌐 **Portfolio:** [alfianwp.my.id](https://alfianwp.my.id/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/afianpur/)
+- 📫 **Email:** alfianpur@outlook.co.id
 
 ---
 
-*Building useful things, improving the details, and learning through real-world engineering.*
+## Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 01. Leads Master — Call Playbooks
+
+A single-user sales workspace for planning and running outbound website-development sales.
+
+Manage prospects, build branching cold-call playbooks, log calls, schedule follow-ups, prepare quotations, and review sales activity in one application.
+
+**Engineering highlights**
+- Shared validation between the builder and server.
+- Immutable published snapshots to protect active call sessions.
+- Append-only session logs as the single source of truth.
+- Integer minor units for reliable monetary calculations.
+- Scoped offline write queue for installable PWA functionality.
+
+**Stack:** Next.js 15 · TypeScript · Cloudflare Workers · D1
+
+[Repository →](https://github.com/devalfian/leads-master)
+
+---
+
+### 02. PageScope — Website Auditor
+
+A developer-focused website auditing tool that checks technical and SEO correctness without requiring a browser.
+
+Available as a CLI, an opt-in CI quality gate, and an importable library. Every finding includes supporting evidence and actionable recommendations.
+
+**Engineering highlights**
+- Baseline mode to prevent existing findings from blocking new changes.
+- Semantic finding identification instead of fragile line-number references.
+- Private and reserved IP addresses refused at connection time.
+- 145 automated tests with no network dependency.
+
+**Stack:** TypeScript · pnpm Workspaces · Vitest
+
+[Repository →](https://github.com/devalfian/website-auditor)
+
+---
+
+### 03. Animated Component Engineer — Motion Skill
+
+An agent-agnostic skill that transforms natural-language interaction briefs into production-oriented animated React components.
+
+Selects appropriate animation techniques based on project requirements, including CSS, Framer Motion, GSAP, Canvas, SVG, and WebGL.
+
+**Engineering highlights**
+- Shared motion vocabulary for reusable animation patterns.
+- Explicit reduced-motion and accessibility considerations.
+- Performance-aware animation implementation.
+- Zero-dependency Node.js auditor with FAIL, WARN, and SKIP reporting.
+
+**Stack:** React · Node.js · Framer Motion · Markdown
+
+[Repository →](https://github.com/devalfian/animated-component-engineer)
+
+---
+
+## Engineering Principles
+
+- **Maintainability over cleverness** — Write code that other developers can understand and extend.
+- **User experience matters** — Build interfaces that are responsive, accessible, and intuitive.
+- **Performance by design** — Consider performance as part of the architecture, not an afterthought.
+- **Test what matters** — Build confidence through meaningful automated tests.
+- **Practical engineering** — Make decisions based on requirements, trade-offs, and real-world constraints.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devalfian&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalfian&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devalfian&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm always interested in building useful products, solving engineering challenges, and collaborating with people who care about great software.
+
+<p align="left">
+  <a href="https://alfianwp.my.id/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/afianpur/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alfianpur@outlook.co.id">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building meaningful things, one commit at a time.</i>
+</p>
